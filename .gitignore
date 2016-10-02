@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+.happypack
+.vscode
+.npm-debug.*
+rethinkdb_data
